@@ -1,0 +1,5 @@
+.button {
+    @apply bg-white hover:bg-gray-200  p-2 rounded-full 
+    text-black font-semibold shadow-lg hover:shadow-xl duration-150
+    disabled:opacity-80 disabled:cursor-wait;
+}
